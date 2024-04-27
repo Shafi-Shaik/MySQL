@@ -86,3 +86,7 @@ FROM DUAL -- this is required in some RDBMS such as Oracle
 </table>
 </body>
 </html>
+
+
+![Pic of Date Function](https://github.com/Shafi-Shaik/MySQL/blob/master/MySQL%20Date%20Functions.png)
+
